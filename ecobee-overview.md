@@ -6,8 +6,6 @@ ms.topic: smart-home
 ms.date: 03/26/2022
 ---
 
-Overview of the Ecobee thermostat
-
 It was around 2017 when I discovered and purchased the Ecobee 3 smart thermostat.  Some changes have been made to later versions, such as adding support for Alexa or Siri and replacing the plastic display with glass.  These were not available with Ecobee 3, but it still has most of the major core capabilities of the newer versions.  Ecobee smart thermostats offer what you would traditionally expect from a thermostat and expands on them in helpful ways!
 
 Temperature is prominently displayed and easily changed from the main touch screen interface.  They use a large, easily legible font for the numbers and the presented controls for adjusting temperature are presented as circular buttons you touch and drag up or down to manually adjust the temperature.
