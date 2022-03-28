@@ -29,3 +29,7 @@ They offer portable, battery-powered SmartSensors, which may or may not be inclu
 # Other Settings
 
 There are many more settings available to finely tune when and how your system operates.
+
+# Learn More
+
+[Ecobee ecobee.com](https://ecobee.com
