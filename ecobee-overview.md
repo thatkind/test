@@ -32,4 +32,4 @@ There are many more settings available to finely tune when and how your system o
 
 # Learn More
 
-[Ecobee ecobee.com](https://ecobee.com
+[Ecobee ecobee.com](https://ecobee.com)
