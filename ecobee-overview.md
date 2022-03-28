@@ -6,7 +6,7 @@ ms.topic: smart-home
 ms.date: 03/26/2022
 ---
 
-It was around 2017 when I discovered and purchased the Ecobee 3 smart thermostat.  Some changes have been made to later versions, such as adding support for Alexa or Siri and replacing the plastic display with glass.  These were not available with Ecobee 3, but it still has most of the major core capabilities of the newer versions.  Ecobee smart thermostats offer what you would traditionally expect from a thermostat and expands on them in helpful ways!
+It was around 2017 when I discovered and purchased the Ecobee 3 smart thermostat.  Some changes have been made to later versions, such as adding support for Alexa or Siri and replacing the plastic display with glass.  These were not available with Ecobee 3, but it still has most of the major core capabilities of the newer versions.  Ecobee smart thermostats offer what you would traditionally expect from a thermostat and expands on it in helpful ways!
 
 ![Ecobee with sensor](https://images.ctfassets.net/a3qyhfznts9y/jh6PfQelhmJEWRTG9hVtS/d04e6f5567cfb01ba92698c3275303bc/BestTstatClaim-TomsGuide-CA_2x.png?w=750&h=750&q=80&fm=webp)
 
