@@ -18,27 +18,4 @@ Home, sleep, and away are a few basic temperature schedules provided by default.
 
 They offer portable, battery-powered SmartSensors, which may or may not be included with your model.  You can purchase these sensors separately and add up to 32.  They are intended to monitor temperature and occupancy in rooms away from your thermostat's location.  This data is used to help make sure the rooms you are in meet your temperature comfort requirements.  This can be especially helpful in a home where the thermostat is downstairs and the upstairs temperature can vary drastically for example.
 
-There are many more settings to finely tune when and how your system operates.  You can tweak settings such as 
-
- 
-
-
-
-
-eat and cool are the most obvious and perform as advertised.  Auto is a mode  makes thethird and it takes the outdoor 
-
-At the time, I was looking for a solution to a problem with temperature variation in my home.  There are two floors in my home, and the upstairs temperature would vary drastically.
-
-
-
-I was searching for a solution to the problem of  while searching for a solution to a problem.
-
- one of which is their thermostat.  The name has changed just as the features offered.  
-
-  When I first noticed them a few years ago, they only offered the Ecobee thermostat.  There was a great advantage 
-Ecobee 3 is the version I have been using for a few years now.  Later models offer slightly more There have been some updates in their latest models, such as adding support forAlexa and replacing the plastic display of old for glass.  from devices materials a thermostat which can be integrated with your existing smart home setup or used in a more traditional capacity.  Apple and Android users
-
-What
-Why
-Features
-How
+There are many more settings to finely tune when and how your system operates.
