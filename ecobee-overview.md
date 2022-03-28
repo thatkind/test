@@ -26,4 +26,6 @@ Home, sleep, and away are a few basic temperature schedules provided by default.
 
 They offer portable, battery-powered SmartSensors, which may or may not be included with your model.  You can purchase these sensors separately and add up to 32.  They are intended to monitor temperature and occupancy in rooms away from your thermostat's location.  This data is used to help make sure the rooms you are in meet your temperature comfort requirements.  This can be especially helpful in a home where the thermostat is downstairs and the upstairs temperature can vary drastically for example.
 
+# Other Settings
+
 There are many more settings available to finely tune when and how your system operates.
