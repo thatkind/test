@@ -1,8 +1,10 @@
+---
 title: Overview of the Ecobee thermostat
 description: Overview of the Ecobee thermostat's main features
 author: rallen
 ms.topic: smart-home
 ms.date: 03/26/2022
+---
 
 Overview of the Ecobee thermostat
 
