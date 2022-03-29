@@ -67,8 +67,7 @@ env | grep SHELL
 
 # Manual
 
-
-
+x
 # CLI
 
 
