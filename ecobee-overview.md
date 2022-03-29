@@ -1,6 +1,6 @@
 ---
-title: Overview of the Ecobee thermostat
-description: Overview of the Ecobee thermostat's main features
+title: Overview of the Ecobee 3 thermostat
+description: Overview of the Ecobee 3 thermostat's main features
 author: rallen
 ms.topic: smart-home
 ms.date: 03/26/2022
@@ -12,7 +12,7 @@ Around 2017 Ecobee debuted their Ecobee 3 smart thermostat.  Some changes have b
 
 # Temperature
 
-Temperature is prominently displayed and easily changed from the main touch screen interface.  They use a large, easily legible font to show temperature.  The controls for setting temperature are presented as circular buttons you touch and drag up or down to manually adjust the temperature.
+Temperature is prominently displayed and easily changed from the main touch screen interface.  A large, easily legible font shows your current setting.  Controls for making manual adjustments are presented as circular buttons you can touch and drag up or down.
 
 # Modes
 
