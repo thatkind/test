@@ -22,7 +22,7 @@ env
 > [Note]
 > Pay attention to variables which are already set.  They are set for a purpose.  You should generally leave them set to their default values and use unique variable names for your own needs.
 
-## Two ways to set your own custom variables
+## Two ways to set your own variables
 
 ### 1. Set from the command line
 ```bash
