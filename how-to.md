@@ -39,7 +39,7 @@ Use your variable on the command line by adding a dollar sign at the beginning.
 echo $VARIABLE_NAME
 ```
 
-### 2. Set variable within a shell script
+### 2. Set within a shell script
 ```bash shell script
 #!/bin/bash
 
