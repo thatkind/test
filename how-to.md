@@ -6,8 +6,6 @@ ms.topic: linux
 ms.date: 03/26/2022
 ---
 
-# How to work with shell variables in Linux
-
 ## Check your current environment variables
 
 Login to your Linux server
