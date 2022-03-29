@@ -35,10 +35,8 @@ set | grep VARIABLE_NAME
 ```
 
 Use your variable on the command line by adding a dollar sign at the beginning.
-
-Example
 ```bash
-print $VARIABLE_NAME
+echo $VARIABLE_NAME
 ```
 
 ### 2. Set variable within a shell script
@@ -48,25 +46,12 @@ print $VARIABLE_NAME
 VARIABLE_NAME=value
 ```
 
-To the variable in your script, you will also reference it by adding a dollar sign at the beginning.
+Use the variable in your script by adding a dollar sign at the beginning to referencing it.
 
+```bash shell script
+#!/bin/bash
 
+VARIABLE_NAME=value
 
-
-
-
-# Setting environment variables in Linux (3 methods)
-
-To check which shell your terminal session is set to use
+echo "My variable is now set to $VARIABLE_NAME"
 ```
-env | grep SHELL
-```
-
-
-
-
-# Manual
-
-x
-# CLI
-
