@@ -55,3 +55,5 @@ VARIABLE_NAME=value
 
 echo "My variable is now set to $VARIABLE_NAME"
 ```
+
+The scope of your variable depends on where you set it.  If you set it at the command line, it will persist until you log out of that shell.  If you set it within a script, it exists only while that script runs.
