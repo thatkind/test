@@ -6,13 +6,13 @@ ms.topic: smart-home
 ms.date: 03/26/2022
 ---
 
-It was around 2017 when I discovered and purchased the Ecobee 3 smart thermostat.  Some changes have been made to later versions, such as adding support for Alexa or Siri and replacing the plastic display with glass.  These were not available with Ecobee 3, but it still has most of the major core capabilities of the newer versions.  Ecobee smart thermostats offer what you would traditionally expect from a thermostat and expands on it in helpful ways!
+Around 2017 Ecobee debuted their Ecobee 3 smart thermostat.  Some changes have been made to later versions, such as adding support for Alexa or Siri and replacing the plastic display with glass.  These were not available with Ecobee 3, but it still has most of the major core capabilities of the newer versions.  Ecobee smart thermostats offer what you would traditionally expect from a thermostat and expand on it in helpful ways!
 
 ![Ecobee with sensor](https://images.ctfassets.net/a3qyhfznts9y/jh6PfQelhmJEWRTG9hVtS/d04e6f5567cfb01ba92698c3275303bc/BestTstatClaim-TomsGuide-CA_2x.png?w=750&h=750&q=80&fm=webp "Ecobee thermostat and sensor")
 
 # Temperature
 
-Temperature is prominently displayed and easily changed from the main touch screen interface.  They use a large, easily legible font for the numbers and the presented controls for adjusting temperature are presented as circular buttons you touch and drag up or down to manually adjust the temperature.
+Temperature is prominently displayed and easily changed from the main touch screen interface.  They use a large, easily legible font to show temperature.  The controls for setting temperature are presented as circular buttons you touch and drag up or down to manually adjust the temperature.
 
 # Modes
 
@@ -20,7 +20,7 @@ Three modes (heat/cool/auto)  help ensure that you are comfortable no matter how
 
 # Schedules
 
-Home, sleep, and away are a few basic temperature schedules provided by default.  Home is for the temperature you prefer while you are awake.  Sleep is for your desired sleeping temperature.  Away is for when your home is not occupied, and will use a your temperature settings to basically allow your system to rest more in your absence.
+Home, sleep, and away are a few basic temperature schedules provided by default.  Home is for the temperature you prefer while you are awake.  Sleep is for your desired sleeping temperature.  Away is for when your home is not occupied and will use your temperature settings to allow your system to rest more in your absence.
 
 # Sensors
 
@@ -33,4 +33,3 @@ There are many more settings available to finely tune when and how your system o
 # Learn More
 
 [Ecobee.com](https://ecobee.com)
-
