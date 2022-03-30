@@ -47,7 +47,7 @@ echo $VARIABLE_NAME
 VARIABLE_NAME=value
 ```
 
-Use the variable in your script by adding a dollar sign at the beginning to referencing it.
+Use the variable in your script by adding a dollar sign at the beginning to reference it.
 
 ```bash shell script
 #!/bin/bash
